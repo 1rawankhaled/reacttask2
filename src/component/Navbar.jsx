@@ -34,9 +34,7 @@ function LogOut(){
         <li className="nav-item">
           <Link to={'brands'} className="nav-link" >Brands</Link>
         </li>
-        <li className="nav-item">
-          <Link to={'allorders'} className="nav-link" >orders</Link>
-        </li>
+       
       
         
       </ul>}
